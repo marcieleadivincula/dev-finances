@@ -1,2 +1,2 @@
 # Dev Finance$
-Projeto realizado durante a maratona Discover da Rocketseat
+Projeto realizado durante a maratona Discover da Rocketseat.
