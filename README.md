@@ -5,7 +5,6 @@ Projeto realizado durante a maratona Discover da Rocketseat.
 ## O que vamos ver hoje?
 
 __Finalização do HTML + CSS__
-
 [] Imagens
 [] Acessibilidade
 [] Disposição dos elementos na página
