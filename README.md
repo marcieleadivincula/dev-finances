@@ -5,13 +5,14 @@ Projeto realizado durante a maratona Discover da Rocketseat.
 ## O que vamos ver hoje?
 
 __Finalização do HTML + CSS__
-[] Imagens
-[] Acessibilidade
-[] Disposição dos elementos na página
-[] Responsividade
-[] Formulário para cadastro de dados
-[] Modal
-[] Uma pitadinha de JavaScript
+
+	[] Imagens
+	[] Acessibilidade
+	[] Disposição dos elementos na página
+	[] Responsividade
+	[] Formulário para cadastro de dados
+	[] Modal
+	[] Uma pitadinha de JavaScript
 
 ## Lembretes
 * A aula vai ficar gravada
@@ -39,20 +40,20 @@ te deixar por dentro de tudo.
 [] O que é ser uma pessoa programadora
 [] Oportunidades e mercado
 [] Organização e estudos
-	[] Foco, Local, Aprendizado ativo, Revisões, Pesquisas
+[] Foco, Local, Aprendizado ativo, Revisões, Pesquisas
 [] Navegamos pela plataforma
 [] Dicas de como acompanhar as aulas
 [] Mentalidade
-	[] Tempo, Descanso, Persistência, Síndrome do impostor
-	[] Você gosta do que está fazendo?
+[] Tempo, Descanso, Persistência, Síndrome do impostor
+[] Você gosta do que está fazendo?
 * Hard Skills (prática)
 [] HTML
-	[] Estrutura base
-	[] Tags semânticas
+[] Estrutura base
+[] Tags semânticas
 [] CSS
-	[] Box Model
-	[] Fontes e Cores
-	[] Seletores, Valores, Classes e IDs
+[] Box Model
+[] Fontes e Cores
+[] Seletores, Valores, Classes e IDs
 
 
 
@@ -66,5 +67,6 @@ te deixar por dentro de tudo.
 		[] Formulários de outro planeta
 	* CSS
 		[] Nem só de classes ou ID's
+		
 	### Para acompanhar a próxima aula
 	* [] O guia estelar de JavaScript
