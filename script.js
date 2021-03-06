@@ -114,10 +114,20 @@ const DOM = {
 
 const Utils = {
   formatAmount(value) {
+    //ESTAVA:
     //value = Number(value.replace(/\,\./g, "")) * 100; //remove vírgula e ponto, depois multiplica por 100
-    value = Number(value) * 100;
 
-    return value;
+    //DEVERIA SER: (para remover , ou .)
+    //value = value.replace(/\,?\.?/g, "") * 100;
+    //return value;
+
+    //MAS ESQUECE ESSE value.replace, pois essa ideia não iria funcionar do mesmo jeito
+    //O input[type=number] já dá pra gente o campo em formato de número
+    //Usaremos o value * 100, para aplicar nossa estratégia. Entretanto, alguns números (como o 0.56) fica um resultado bizarro (56.000.000. blah blah)
+    //Então, usaremos o Math.round() que arredonda o número que foi passado como argumento
+    
+    value = value * 100;
+    return Math.round(value);
   },
   formatDate(date) {
     const splittedDate = date.split("-");
